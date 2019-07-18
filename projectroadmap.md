@@ -11,7 +11,7 @@
   <li>Add a button on the UI that routes the user to the powerball website</li>
   <li>Create a prompt for the user to insert their own selected numbers</li>
   <li>Create a list that displays all of the trends I found in almost every powerball drawing</li>
-  <li></li>
+  <li>Create the same program, but for mega millions using the 5 numbers 1-70 and the "mega" number between 1 and 25</li>
   <li></li>
   <li></li>
   <li></li>
