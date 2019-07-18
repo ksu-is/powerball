@@ -9,8 +9,8 @@
   <li>Change the amount of number sequences the program generates from five random number sets to 8<i>Delete from list</i></li>
   <li>Add a button on the UI to reset the input field</li>
   <li>Add a button on the UI that routes the user to the powerball website</li>
-  <li></li>
-  <li></li>
+  <li>Create a prompt for the user to insert their own selected numbers</li>
+  <li>Create a list that displays all of the trends I found in almost every powerball drawing</li>
   <li></li>
   <li></li>
   <li></li>
