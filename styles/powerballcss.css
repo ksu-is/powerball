@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://turnto10.com/resources/media/97207420-ded2-4d41-87b4-ad7a350d1601-large16x9_1280x720_60728B00HTOJF1.jpg?1540700955824");
+    align-items: center;
+    background-repeat: no-repeat, no-repeat;
+    background-color: #cccccc;
+    background-size: cover;
+
+}
+
+div {
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    background-color: black;
+    opacity:0.5;
+    width: 40em;
+    height: 20em;
+}
+
+label {
+    color: red;
+}
