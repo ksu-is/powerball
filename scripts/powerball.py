@@ -4,6 +4,7 @@
 from pprint import pprint as pp
 import random
 
+
 def powerball():
     drum1 = list(range(1,70))
     drum2 = list(range(1,27))
@@ -26,6 +27,9 @@ except:
     budget = 1
 
 pp(list(powerball() for i in range(budget)))
+
+output=budget
+print(budget)
 
 
 
