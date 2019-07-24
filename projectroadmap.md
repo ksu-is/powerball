@@ -5,7 +5,7 @@
   <li>Generate a random number between 1 and 26 for the powerball<b>DONE</b></li>
   <li>Generate a sequence that outputs either two even and three odd numbers, or three even and two odd numbers for the first five numbers<i>In Progress</i></li>
   <li>Auto increment the output of the numbers<b>DONE</b></li>
-  <li>Connect to a HTTP Web server<b>DONE</b></li>
+  <li>Connect to a HTTP Web server<b>DONE through a socket</b></li>
   <li>Change the amount of number sequences the program generates from five random number sets to <b>DONE</b></li>
   <li>Add a button on the UI to reset the input field</li>
   <li>Add a button on the UI that routes the user to the powerball website</li>
